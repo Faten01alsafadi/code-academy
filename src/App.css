@@ -368,4 +368,8 @@ body {
   .section {
     padding: 40px 15px;
   }
+  .whatsapp {
+    padding: 10px 14px;
+    font-size: 12px;
+  }
 }

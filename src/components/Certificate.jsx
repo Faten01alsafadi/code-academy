@@ -1,7 +1,7 @@
 import { QRCodeCanvas } from "qrcode.react";
 
 function Certificate({ id, name }) {
-  const verifyUrl = `https://codeacademy.com/verify/${id}`;
+const verifyUrl = `https://code-academy-beryl.vercel.app/verify/${id}`;
 
   return (
     <div className="certificate">
