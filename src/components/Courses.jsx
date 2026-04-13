@@ -15,7 +15,7 @@ const courses = [
 
 function Courses() {
   return (
-    <section className="section" data-aos="zoom-in">
+    <section className="section" data-aos="zoom-in" id="courses">
       <h2>Our Courses</h2>
       <div className="grid">
         {courses.map((c, i) => (

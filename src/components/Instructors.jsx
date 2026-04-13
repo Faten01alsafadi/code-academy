@@ -1,6 +1,6 @@
 function Instructors() {
   return (
-    <section className="section" data-aos="fade-up">
+    <section className="section" data-aos="fade-up" id="instructors">
       <h2>Our Instructors</h2>
 
       <div className="grid">

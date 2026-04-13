@@ -18,7 +18,7 @@ function Students() {
   ];
 
   return (
-    <section className="section" data-aos="fade-up">
+    <section className="section" data-aos="fade-up" id="students">
       <h2>Our Certified Graduates</h2>
       <p>Official certificates issued by Code Academy</p>
 
