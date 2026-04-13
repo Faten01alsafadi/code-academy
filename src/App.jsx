@@ -29,7 +29,7 @@ function App() {
       <Students />
       <Footer />
             <a
-  href="https://wa.me/9639XXXXXXX"
+  href="https://wa.me/963935184673"
   target="_blank"
   className="btn whatsapp"
 >

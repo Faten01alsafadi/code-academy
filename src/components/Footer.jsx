@@ -6,15 +6,15 @@ function Footer() {
       <h3>Code Academy</h3>
 
       <div className="footer-icons">
-        <a href="https://facebook.com" target="_blank">
+        <a href="https://www.facebook.com/share/1DrAjwCVkM/" target="_blank">
           <FaFacebook />
         </a>
 
-        <a href="https://wa.me/9639XXXXXXX" target="_blank">
+        <a href="https://wa.me/963935184673" target="_blank">
           <FaWhatsapp />
         </a>
 
-        <a href="https://t.me/username" target="_blank">
+        <a href="https://t.me/faten0101alsafadi" target="_blank">
           <FaTelegram />
         </a>
       </div>
