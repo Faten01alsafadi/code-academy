@@ -6,15 +6,15 @@ function Students() {
     { name: "Luna Alsafadi", id: "FE-2026-002" },
     { name: "Lara Alhajali", id: "FE-2026-003" },
     { name: "Atheer Maklad", id: "FE-2026-004" },
-    { name: "Asala Alghadban", id: "FE-2026-005" },
-    { name: "Taim Quroni", id: "FE-2026-006" },
+    // { name: "Asala Alghadban", id: "FE-2026-005" },
+    // { name: "Taim Quroni", id: "FE-2026-006" },
   ];
 
   const backEnd = [
     { name: "Zain Ghabra", id: "BE-2026-001" },
     { name: "Ashraf Hlal", id: "BE-2026-002" },
-    { name: "Hadeel Zidan", id: "BE-2026-003" },
-    { name: "Jana Abo Omar", id: "BE-2026-004" },
+    // { name: "Hadeel Zidan", id: "BE-2026-003" },
+    // { name: "Jana Abo Omar", id: "BE-2026-004" },
   ];
 
   return (
